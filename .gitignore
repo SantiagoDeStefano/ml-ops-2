@@ -1,0 +1,29 @@
+# Virtualenv
+.venv/
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks
+**/.ipynb_checkpoints/
+
+# ML artifacts
+models/
+outputs/
+mlruns/
+metrics.json
+
+# Env
+.env
+
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+
+# Misc
+*.log
+.DS_Store
