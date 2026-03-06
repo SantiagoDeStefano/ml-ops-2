@@ -1,0 +1,6 @@
+transformers
+sentencepiece
+tiktoken
+fastapi
+uvicorn[standard]
+pydantic
